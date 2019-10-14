@@ -1,4 +1,6 @@
 ---
+name: "Testing markymark"
+about: "This template will trigger an GitHub Action, if done correctly"
 title: New Issue
 labels: bug, enhancement
 ---
